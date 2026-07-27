@@ -1,1 +1,1 @@
-// eval(`console.log("User: " + ${userInput})`);
+eval(`console.log("User: " + ${userInput})`);
